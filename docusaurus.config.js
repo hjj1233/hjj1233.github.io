@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '胡家家的官网',
+  tagline: '关于下一个彭于晏的故事',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
