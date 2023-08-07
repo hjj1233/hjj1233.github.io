@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'hjj1233', // Usually your GitHub org/user name.
-  projectName: 'notebook.github.io', // Usually your repo name.
+  projectName: 'hjj1233.github.io', // Usually your repo name.
   deploymentBranch:'gh-pages',
 
   onBrokenLinks: 'throw',
